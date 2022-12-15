@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  color: white;
+  background: black;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,200&family=Open+Sans:ital@1&family=Roboto&display=swap');
+
+
+
+.primaryfont{
+  font-family: 'Open Sans', sans-serif;
+  ;
+}
+.secondaryFont{
+
+  font-family: 'Roboto', sans-serif;
+}
